@@ -1,10 +1,10 @@
-# 📈 Student Score Predictor
+# Student Score Predictor
 
-A simple machine learning project using linear regression to predict student scores based on hours studied.
+This project trains a Linear Regression model to predict student scores based on hours studied.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [Student Scores Dataset](http://bit.ly/w-data)
 - **Features:**
@@ -13,17 +13,17 @@ A simple machine learning project using linear regression to predict student sco
 
 ---
 
-## ⚙️ Tech Stack
+## Tools used
 
-- Python 🐍  
-- pandas 📊  
-- matplotlib 📉  
-- scikit-learn 🤖  
-- Google Colab 📒
+- Python   
+- Pandas   
+- Matplotlib 
+- Scikit-learn  
+- Google Colab
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 1. Clone this repo or open the notebook directly in [Google Colab](https://colab.research.google.com)
 2. Run the cells step-by-step to:
@@ -31,10 +31,11 @@ A simple machine learning project using linear regression to predict student sco
    - Train the model
    - Predict scores
    - Plot the regression line
+   - To see the predicted vs actual score comparison
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Basics of data visualization
 - Building a regression model using scikit-learn
@@ -43,9 +44,9 @@ A simple machine learning project using linear regression to predict student sco
 
 ---
 
-## 📷 Output Example
-
-!(https://github.com/user-attachments/assets/14b83f5c-54b4-44df-bf68-bc156a85ae4a)
+## Output Example
+![image](https://github.com/user-attachments/assets/674d34e3-da81-4469-9d59-afb9744592c2)
+![image](https://github.com/user-attachments/assets/c926e428-ca83-4cc0-a20b-fab8cb8c4428)
 
 
 ---
